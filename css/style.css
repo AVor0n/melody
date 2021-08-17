@@ -1,0 +1,80 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+.body {
+  font-family: 'Roboto', sans-serif;
+}
+
+.header {
+  background-color: #635854;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  border-bottom: 4px solid #3596f5;
+}
+
+.header .navbar {
+  max-width: 1280px;
+  margin: auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 40px;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  font-family: Roboto;
+}
+
+.header .navbar .navbar-logo {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header .navbar .navbar-menu {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.header .navbar .navbar-menu .navbar-item {
+  margin-left: 40px;
+  margin-right: 40px;
+  max-width: 120px;
+  text-align: center;
+}
+
+.header .navbar .navbar-menu .navbar-item .navbar-link {
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 19px;
+  color: #fff;
+}
+
+.header .navbar .navbar-contacts {
+  text-align: right;
+}
+
+.header .navbar .navbar-contacts .navbar-text {
+  display: block;
+  font-size: 14px;
+  line-height: 16px;
+  color: #fff;
+  margin-bottom: 4px;
+}
+
+.header .navbar .navbar-contacts .navbar-phone {
+  font-weight: bold;
+  font-size: 17px;
+  line-height: 20px;
+  text-decoration: none;
+  color: #fff;
+}
