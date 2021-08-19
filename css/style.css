@@ -101,6 +101,10 @@
   opacity: 1;
 }
 
+.main .home-image .current-floor {
+  opacity: 1;
+}
+
 .main .main-info {
   -webkit-box-flex: 1;
       -ms-flex-positive: 1;
