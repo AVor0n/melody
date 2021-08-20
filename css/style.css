@@ -202,11 +202,11 @@
   margin-right: 37px;
 }
 
-.footer .wrapper .footer-logo .footer-contacts {
+.footer .wrapper .footer-contacts {
   margin-right: 59px;
 }
 
-.footer .wrapper .footer-logo .contacts-text {
+.footer .wrapper .footer-contacts .contacts-text {
   display: block;
   font-size: 14px;
   line-height: 16px;
@@ -214,7 +214,7 @@
   margin-bottom: 4px;
 }
 
-.footer .wrapper .footer-logo .contacts-phone {
+.footer .wrapper .footer-contacts .contacts-phone {
   font-weight: bold;
   font-size: 17px;
   line-height: 20px;
