@@ -1,5 +1,11 @@
-# melody
+# Melody
 
-Результат прохождения интенсива по верстке 
+Одно из заданий интенсива по верстке, проводимого [GloAcademy](https://glo-academy.ru/intensive/) 
 
-"Cайт Жилого Комплекса Мелодия" от GloAcademy: [*View*](https://avor0n.github.io/melody/)
+Необходимо сверстать сайт жилого комплекса "Мелодия"
+
+## [Результат](https://avor0n.github.io/melody/)
+
+### Ключевые навыки
+- HTML
+- CSS
